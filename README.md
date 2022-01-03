@@ -7,23 +7,22 @@ Module 2 Challenge using VBA to analyze stocks performance
 
 ### Purpose:
 
-1. The purpose is to gain proficiency using VBA to analyze stocks performance and determine the annual return on investment (ROI) over two different years.
+1. The purpose is to gain proficiency using VBA, For loops, and conditionals to analyze stocks performance and determine the annual return on investment (ROI) over two different years.
 
 # Results
 
-* As shown in the images below, it can be observed that the 2017 ROI was greater than 2018 for all stocks except for ENPH and RUN which both performed better in 2018.  
+* As shown in the images below, it can be observed that in general the 2017 ROI was greater than 2018 for all stocks except for RUN which performed better in 2018 and TERP which performed somewhat better in 2018.  Of note, only ENPH and RUN had mutiple years of positive ROI while the other stocks were mixed results.   
 
 ![2017 ROI Results](Resources/2017_roi.png)
 ![2018 ROI Results](Resources/2018_roi.png)
 
-* Please note the execution times as shown below for 2017 and 2018, respectively. It can be observed that the execution times were faster for the refactored script as compared to the original script. 
+* Please note the execution times as shown below for 2017 and 2018, respectively. It can be observed that the execution times were indeed faster for the refactored script as compared to the original script. 
 
 ![2017 Excel Time Original Results](Resources/VBA_Challenge_2017_original.png)
 ![2018 Excel Time Original Results](Resources/VBA_Challenge_2018_original.png)
 
 ![2017 Excel Time Refactored Results](Resources/VBA_Challenge_2017_refactored.png)
 ![2018 Excel Time Refactored Results](Resources/VBA_Challenge_2018_refactored.png)
-
 
 # Summary
 
