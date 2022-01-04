@@ -18,9 +18,11 @@ Module 2 Challenge using VBA to analyze stocks performance
 
 * Please note the execution times as shown below for 2017 and 2018, respectively. It can be observed that the execution times were indeed faster for the refactored script as compared to the original script. 
 
-![2017 Excel Time Original Results](Resources/VBA_Challenge_2017_original.png)
-![2018 Excel Time Original Results](Resources/VBA_Challenge_2018_original.png)
+* Original Script
+![2017 Excel Time Original Results](Resources/VBA_original_2017.png)
+![2018 Excel Time Original Results](Resources/VBA_original_2018.png)
 
+* Refactored Script
 ![2017 Excel Time Refactored Results](Resources/VBA_Challenge_2017_refactored.png)
 ![2018 Excel Time Refactored Results](Resources/VBA_Challenge_2018_refactored.png)
 
