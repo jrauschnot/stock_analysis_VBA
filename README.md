@@ -30,5 +30,5 @@ Module 2 Challenge using VBA to analyze stocks performance
 
 * The advantages of refactoring code include a utilization of less memory, faster execution times, and easier to read lines of code.  The disadvantages include the additional work of editing without adding new functionality to the code. 
 
-* The advantages of refactoring the original code include a slightly faster execution time (as shown above). There were no major disadvantages of refactoring the original VBA code. 
+* The advantages of refactoring the original code include significantly faster execution times (as shown above). There were no major disadvantages of refactoring the original VBA code. 
 
